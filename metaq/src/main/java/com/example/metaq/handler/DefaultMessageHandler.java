@@ -1,6 +1,5 @@
 package com.example.metaq.handler;
 
-import com.alibaba.fastjson.JSON;
 import com.example.metaq.config.MetaqProperties;
 import com.example.metaq.util.SerializeUtil;
 import com.taobao.metamorphosis.Message;

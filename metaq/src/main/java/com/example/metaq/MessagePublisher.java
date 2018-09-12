@@ -9,9 +9,6 @@ import com.taobao.metamorphosis.exception.MetaClientException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import java.io.ByteArrayOutputStream;
-import java.io.ObjectOutputStream;
-
 @Component
 public class MessagePublisher {
     @Autowired
