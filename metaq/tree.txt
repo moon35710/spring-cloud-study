@@ -1,0 +1,205 @@
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective settings
+[WARNING] Unrecognised tag: 'snapshotPolicy' (position: START_TAG seen ...</layout>\n          <snapshotPolicy>... @237:27)  @ C:\Users\P0036458.PACTERAGY\.m2\settings.xml, line 237, column 27
+[WARNING] 
+[INFO] Scanning for projects...
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-codegen-maven/3.9.6/jooq-codegen-maven-3.9.6.pom
+3/3 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-codegen-maven/3.9.6/jooq-codegen-maven-3.9.6.pom (3 KB at 4.7 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-parent/3.9.6/jooq-parent-3.9.6.pom
+3/10 KB   7/10 KB   10/10 KB              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-parent/3.9.6/jooq-parent-3.9.6.pom (10 KB at 37.6 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-codegen-maven/3.9.6/jooq-codegen-maven-3.9.6.jar
+4/16 KB    7/16 KB   11/16 KB   14/16 KB   16/16 KB              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-codegen-maven/3.9.6/jooq-codegen-maven-3.9.6.jar (16 KB at 29.3 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.pom
+4/4 KB              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.pom (4 KB at 11.3 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.jar
+3/36 KB   7/36 KB   11/36 KB   15/36 KB   19/36 KB   23/36 KB   27/36 KB   31/36 KB   35/36 KB   36/36 KB              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.jar (36 KB at 128.8 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.pom
+3/17 KB    7/17 KB   11/17 KB   15/17 KB   17/17 KB              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.pom (17 KB at 66.3 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.jar
+3/240 KB   7/240 KB   11/240 KB   15/240 KB   19/240 KB   23/240 KB   27/240 KB   31/240 KB   35/240 KB   39/240 KB   43/240 KB   47/240 KB   51/240 KB   55/240 KB   59/240 KB   63/240 KB   67/240 KB   71/240 KB   75/240 KB   77/240 KB   80/240 KB   84/240 KB   87/240 KB   91/240 KB   94/240 KB   97/240 KB   101/240 KB   104/240 KB   108/240 KB   111/240 KB   114/240 KB   118/240 KB   121/240 KB   124/240 KB   128/240 KB   131/240 KB   135/240 KB   139/240 KB   140/240 KB   144/240 KB   148/240 KB   150/240 KB   154/240 KB   157/240 KB   161/240 KB   165/240 KB   167/240 KB   171/240 KB   175/240 KB   178/240 KB   181/240 KB   185/240 KB   188/240 KB   191/240 KB   195/240 KB   199/240 KB   200/240 KB   204/240 KB   208/240 KB   208/240 KB   212/240 KB   216/240 KB   217/240 KB   220/240 KB   224/240 KB   227/240 KB   231/240 KB   234/240 KB   237/240 KB   240/240 KB                Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.jar (240 KB at 633.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-dependency-plugin/2.10/maven-dependency-plugin-2.10.pom
+4/12 KB      7/12 KB   11/12 KB   12/12 KB              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-dependency-plugin/2.10/maven-dependency-plugin-2.10.pom (12 KB at 41.1 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-dependency-plugin/2.10/maven-dependency-plugin-2.10.jar
+3/157 KB   7/157 KB   11/157 KB   15/157 KB   19/157 KB   23/157 KB   27/157 KB   31/157 KB   35/157 KB   39/157 KB   43/157 KB   47/157 KB   51/157 KB   55/157 KB   59/157 KB   63/157 KB   67/157 KB   71/157 KB   75/157 KB   79/157 KB   83/157 KB   87/157 KB   91/157 KB   95/157 KB   99/157 KB   103/157 KB   107/157 KB   111/157 KB   115/157 KB   119/157 KB   123/157 KB   127/157 KB   131/157 KB   135/157 KB   139/157 KB   143/157 KB   147/157 KB   151/157 KB   155/157 KB   157/157 KB                Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-dependency-plugin/2.10/maven-dependency-plugin-2.10.jar (157 KB at 585.0 KB/sec)
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building metaq 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.10:tree (default-cli) @ metaq ---
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting-impl/2.2/maven-reporting-impl-2.2.pom
+3/5 KB       5/5 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting-impl/2.2/maven-reporting-impl-2.2.pom (5 KB at 16.8 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.2/doxia-sink-api-1.2.pom
+2/2 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.2/doxia-sink-api-1.2.pom (2 KB at 6.2 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia/1.2/doxia-1.2.pom
+3/19 KB   7/19 KB   11/19 KB   15/19 KB   19/19 KB              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia/1.2/doxia-1.2.pom (19 KB at 63.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-logging-api/1.2/doxia-logging-api-1.2.pom
+2/2 KB              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-logging-api/1.2/doxia-logging-api-1.2.pom (2 KB at 5.7 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-core/1.2/doxia-core-1.2.pom
+4/4 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-core/1.2/doxia-core-1.2.pom (4 KB at 15.5 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-site-renderer/1.2/doxia-site-renderer-1.2.pom
+3/7 KB   7/7 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-site-renderer/1.2/doxia-site-renderer-1.2.pom (7 KB at 24.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sitetools/1.2/doxia-sitetools-1.2.pom
+3/16 KB   7/16 KB   11/16 KB   14/16 KB   16/16 KB              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sitetools/1.2/doxia-sitetools-1.2.pom (16 KB at 46.8 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-decoration-model/1.2/doxia-decoration-model-1.2.pom
+3/3 KB              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-decoration-model/1.2/doxia-decoration-model-1.2.pom (3 KB at 12.8 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-xhtml/1.2/doxia-module-xhtml-1.2.pom
+2/2 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-xhtml/1.2/doxia-module-xhtml-1.2.pom (2 KB at 6.2 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-modules/1.2/doxia-modules-1.2.pom
+3/3 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-modules/1.2/doxia-modules-1.2.pom (3 KB at 5.2 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-fml/1.2/doxia-module-fml-1.2.pom
+3/6 KB   6/6 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-fml/1.2/doxia-module-fml-1.2.pom (6 KB at 23.2 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/file-management/1.2.1/file-management-1.2.1.pom
+4/4 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/file-management/1.2.1/file-management-1.2.1.pom (4 KB at 10.2 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-shared-components/10/maven-shared-components-10.pom
+         Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-shared-components/10/maven-shared-components-10.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-parent/9/maven-parent-9.pom
+         Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-parent/9/maven-parent-9.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-analyzer/1.6/maven-dependency-analyzer-1.6.pom
+3/6 KB   6/6 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-analyzer/1.6/maven-dependency-analyzer-1.6.pom (6 KB at 16.2 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/ow2/asm/asm/5.0.2/asm-5.0.2.pom
+2/2 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/ow2/asm/asm/5.0.2/asm-5.0.2.pom (2 KB at 6.7 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/ow2/asm/asm-parent/5.0.2/asm-parent-5.0.2.pom
+3/6 KB   6/6 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/ow2/asm/asm-parent/5.0.2/asm-parent-5.0.2.pom (6 KB at 19.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-project/2.0.5/maven-project-2.0.5.pom
+2/2 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-project/2.0.5/maven-project-2.0.5.pom (2 KB at 4.4 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven/2.0.5/maven-2.0.5.pom
+3/6 KB   6/6 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven/2.0.5/maven-2.0.5.pom (6 KB at 22.4 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-settings/2.0.5/maven-settings-2.0.5.pom
+2/2 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-settings/2.0.5/maven-settings-2.0.5.pom (2 KB at 3.6 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-model/2.0.5/maven-model-2.0.5.pom
+3/3 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-model/2.0.5/maven-model-2.0.5.pom (3 KB at 9.8 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-profile/2.0.5/maven-profile-2.0.5.pom
+2/2 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-profile/2.0.5/maven-profile-2.0.5.pom (2 KB at 6.4 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-artifact-manager/2.0.5/maven-artifact-manager-2.0.5.pom
+2/2 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-artifact-manager/2.0.5/maven-artifact-manager-2.0.5.pom (2 KB at 7.4 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-repository-metadata/2.0.5/maven-repository-metadata-2.0.5.pom
+2/2 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-repository-metadata/2.0.5/maven-repository-metadata-2.0.5.pom (2 KB at 4.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-artifact/2.0.5/maven-artifact-2.0.5.pom
+727/727 B               Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-artifact/2.0.5/maven-artifact-2.0.5.pom (727 B at 2.3 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-tree/2.2/maven-dependency-tree-2.2.pom
+3/8 KB      7/8 KB   8/8 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-tree/2.2/maven-dependency-tree-2.2.pom (8 KB at 17.8 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-invoker/2.1.1/maven-invoker-2.1.1.pom
+3/6 KB   6/6 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-invoker/2.1.1/maven-invoker-2.1.1.pom (6 KB at 17.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting-impl/2.2/maven-reporting-impl-2.2.jar
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/commons-digester/commons-digester/1.6/commons-digester-1.6.jar
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-core/1.2/doxia-core-1.2.jar
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-velocity/1.1.7/plexus-velocity-1.1.7.jar
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/file-management/1.2.1/file-management-1.2.1.jar
+3/165 KB   7/165 KB   11/165 KB   15/165 KB   17/165 KB   3/151 KB   17/165 KB   7/151 KB   17/165 KB   11/151 KB   17/165 KB   14/151 KB   17/165 KB   14/151 KB   20/165 KB   14/151 KB   24/165 KB   14/151 KB   27/165 KB   14/151 KB   31/165 KB   14/151 KB   34/165 KB   14/151 KB   38/165 KB   14/151 KB   41/165 KB   14/151 KB   44/165 KB   4/17 KB   14/151 KB   44/165 KB   4/17 KB   14/151 KB   44/165 KB   3/8 KB   8/17 KB   14/151 KB   44/165 KB   3/8 KB   12/17 KB   14/151 KB   44/165 KB   3/8 KB   14/17 KB   14/151 KB   44/165 KB   3/8 KB   14/17 KB   14/151 KB   44/165 KB   7/8 KB   14/17 KB   14/151 KB   44/165 KB   8/8 KB   14/17 KB   18/151 KB   44/165 KB   8/8 KB   14/17 KB   21/151 KB   44/165 KB   8/8 KB   14/17 KB   24/151 KB   44/165 KB   8/8 KB   14/17 KB   28/151 KB   44/165 KB   8/8 KB   14/17 KB   32/151 KB   44/165 KB   8/8 KB   14/17 KB   35/151 KB   44/165 KB   8/8 KB   14/17 KB   38/151 KB   44/165 KB   8/8 KB   14/17 KB   42/151 KB   44/165 KB   8/8 KB   14/17 KB   43/151 KB   44/165 KB   8/8 KB   17/17 KB   43/151 KB   44/165 KB   8/8 KB   17/17 KB   43/151 KB   48/165 KB   8/8 KB   17/17 KB   43/151 KB   52/165 KB   8/8 KB   17/17 KB   43/151 KB   54/165 KB   8/8 KB   17/17 KB   43/151 KB   58/165 KB   8/8 KB   17/17 KB   43/151 KB   62/165 KB   8/8 KB   17/17 KB   43/151 KB   64/165 KB   8/8 KB   17/17 KB   43/151 KB   68/165 KB   8/8 KB   17/17 KB   43/151 KB   72/165 KB   8/8 KB   17/17 KB   43/151 KB   75/165 KB   8/8 KB   17/17 KB   43/151 KB   78/165 KB   8/8 KB   17/17 KB   43/151 KB   81/165 KB   8/8 KB   17/17 KB   43/151 KB   85/165 KB   8/8 KB   17/17 KB   46/151 KB   85/165 KB   8/8 KB   17/17 KB   50/151 KB   85/165 KB   8/8 KB   17/17 KB   54/151 KB   85/165 KB   8/8 KB   17/17 KB   56/151 KB   85/165 KB   8/8 KB   17/17 KB   60/151 KB   85/165 KB   8/8 KB   17/17 KB   60/151 KB   88/165 KB   8/8 KB   17/17 KB   63/151 KB   88/165 KB   8/8 KB   17/17 KB   67/151 KB   88/165 KB   8/8 KB   17/17 KB   70/151 KB   88/165 KB   8/8 KB   17/17 KB   74/151 KB   88/165 KB   8/8 KB   17/17 KB   78/151 KB   88/165 KB   8/8 KB   17/17 KB   82/151 KB   88/165 KB   8/8 KB   17/17 KB   83/151 KB   88/165 KB   8/8 KB   17/17 KB   87/151 KB   88/165 KB   8/8 KB   17/17 KB   91/151 KB   88/165 KB   8/8 KB   17/17 KB   94/151 KB   88/165 KB   8/8 KB   17/17 KB   97/151 KB   88/165 KB   8/8 KB   17/17 KB   100/151 KB   88/165 KB   8/8 KB   17/17 KB   104/151 KB   88/165 KB   8/8 KB   17/17 KB   106/151 KB   88/165 KB   8/8 KB   17/17 KB   109/151 KB   88/165 KB   8/8 KB   17/17 KB   113/151 KB   88/165 KB   8/8 KB   17/17 KB   116/151 KB   88/165 KB   8/8 KB   17/17 KB   119/151 KB   88/165 KB   8/8 KB   17/17 KB   122/151 KB   88/165 KB   8/8 KB   17/17 KB   126/151 KB   88/165 KB   8/8 KB   17/17 KB   130/151 KB   88/165 KB   8/8 KB   17/17 KB   133/151 KB   88/165 KB   8/8 KB   17/17 KB   136/151 KB   88/165 KB   8/8 KB   17/17 KB   136/151 KB   92/165 KB   8/8 KB   17/17 KB   139/151 KB   92/165 KB   8/8 KB   17/17 KB   139/151 KB   95/165 KB   8/8 KB   17/17 KB   143/151 KB   95/165 KB   8/8 KB   17/17 KB   143/151 KB   98/165 KB   8/8 KB   17/17 KB   147/151 KB   98/165 KB   8/8 KB   17/17 KB   151/151 KB   98/165 KB   8/8 KB   17/17 KB   151/151 KB   98/165 KB   8/8 KB   17/17 KB   151/151 KB   102/165 KB   8/8 KB   17/17 KB   151/151 KB   105/165 KB   8/8 KB   17/17 KB   151/151 KB   109/165 KB   8/8 KB   17/17 KB   151/151 KB   113/165 KB   8/8 KB   17/17 KB   151/151 KB   115/165 KB   8/8 KB   17/17 KB   151/151 KB   119/165 KB   8/8 KB   17/17 KB   151/151 KB   123/165 KB   8/8 KB   17/17 KB   151/151 KB   125/165 KB   8/8 KB   17/17 KB   151/151 KB   129/165 KB   8/8 KB   17/17 KB   151/151 KB   133/165 KB   8/8 KB   17/17 KB   151/151 KB   136/165 KB   8/8 KB   17/17 KB   151/151 KB   140/165 KB   8/8 KB   17/17 KB   151/151 KB   144/165 KB   8/8 KB   17/17 KB   151/151 KB   146/165 KB   8/8 KB   17/17 KB   151/151 KB   149/165 KB   8/8 KB   17/17 KB   151/151 KB   153/165 KB   8/8 KB   17/17 KB   151/151 KB   156/165 KB   8/8 KB   17/17 KB   151/151 KB   160/165 KB   8/8 KB   17/17 KB   151/151 KB   163/165 KB   8/8 KB   17/17 KB   151/151 KB   165/165 KB   8/8 KB                                                 Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-velocity/1.1.7/plexus-velocity-1.1.7.jar (8 KB at 21.7 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-analyzer/1.6/maven-dependency-analyzer-1.6.jar
+                                              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting-impl/2.2/maven-reporting-impl-2.2.jar (17 KB at 42.4 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/ow2/asm/asm/5.0.2/asm-5.0.2.jar
+                                              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-core/1.2/doxia-core-1.2.jar (151 KB at 355.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-tree/2.2/maven-dependency-tree-2.2.jar
+                                              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/commons-digester/commons-digester/1.6/commons-digester-1.6.jar (165 KB at 365.6 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-invoker/2.1.1/maven-invoker-2.1.1.jar
+4/31 KB                                       7/31 KB   11/31 KB   15/31 KB   19/31 KB   23/31 KB   27/31 KB   31/31 KB   31/31 KB   3/52 KB   31/31 KB   7/52 KB   31/31 KB   11/52 KB   31/31 KB   15/52 KB   31/31 KB   19/52 KB   31/31 KB   23/52 KB   31/31 KB   27/52 KB   31/31 KB   29/52 KB   31/31 KB   32/52 KB   31/31 KB   35/52 KB   31/31 KB   39/52 KB   31/31 KB   43/52 KB   31/31 KB   45/52 KB   31/31 KB   49/52 KB   31/31 KB   52/52 KB   31/31 KB   52/52 KB   3/63 KB   31/31 KB   52/52 KB   7/63 KB   31/31 KB   52/52 KB   11/63 KB   31/31 KB   52/52 KB   15/63 KB   31/31 KB   52/52 KB   19/63 KB   31/31 KB   52/52 KB   23/63 KB   31/31 KB   52/52 KB   27/63 KB   31/31 KB   52/52 KB   31/63 KB   31/31 KB   52/52 KB   35/63 KB   31/31 KB   52/52 KB   39/63 KB   31/31 KB   52/52 KB   43/63 KB   31/31 KB   52/52 KB   47/63 KB   31/31 KB   52/52 KB   51/63 KB   31/31 KB   52/52 KB   55/63 KB   31/31 KB   52/52 KB   59/63 KB   31/31 KB   52/52 KB   63/63 KB   31/31 KB   52/52 KB   63/63 KB   31/31 KB   3/30 KB   52/52 KB   63/63 KB   31/31 KB   7/30 KB   52/52 KB   63/63 KB   31/31 KB   11/30 KB   52/52 KB   63/63 KB   31/31 KB   15/30 KB   52/52 KB   63/63 KB   31/31 KB   19/30 KB   52/52 KB   63/63 KB   31/31 KB   23/30 KB   52/52 KB   63/63 KB   31/31 KB   27/30 KB   52/52 KB   63/63 KB   31/31 KB   30/30 KB                                               Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-tree/2.2/maven-dependency-tree-2.2.jar (63 KB at 206.2 KB/sec)
+                                            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/ow2/asm/asm/5.0.2/asm-5.0.2.jar (52 KB at 151.6 KB/sec)
+                                            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-analyzer/1.6/maven-dependency-analyzer-1.6.jar (31 KB at 80.1 KB/sec)
+                                            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-invoker/2.1.1/maven-invoker-2.1.1.jar (30 KB at 102.2 KB/sec)
+4/37 KB                                     8/37 KB   12/37 KB   14/37 KB   17/37 KB   20/37 KB   24/37 KB   27/37 KB   31/37 KB   34/37 KB   37/37 KB              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/file-management/1.2.1/file-management-1.2.1.jar (37 KB at 9.9 KB/sec)
+[INFO] com.example:metaq:jar:0.0.1-SNAPSHOT
+[INFO] +- metaq:metaq:jar:0.1.0:compile
+[INFO] |  +- org.clojure:clojure:jar:1.4.0:compile
+[INFO] |  +- org.clojure:tools.logging:jar:0.2.4:compile
+[INFO] |  \- com.taobao.metamorphosis:metamorphosis-client:jar:1.4.2:compile
+[INFO] |     +- com.taobao.metamorphosis:metamorphosis-commons:jar:1.4.2:compile
+[INFO] |     |  +- com.taobao.gecko:gecko:jar:1.1.0:compile
+[INFO] |     |  +- com.github.sgroschupf:zkclient:jar:0.1:compile
+[INFO] |     |  +- org.apache.zookeeper:zookeeper:jar:3.4.3:compile
+[INFO] |     |  |  +- org.slf4j:slf4j-log4j12:jar:1.7.25:compile
+[INFO] |     |  |  \- org.jboss.netty:netty:jar:3.2.2.Final:compile
+[INFO] |     |  +- log4j:log4j:jar:1.2.14:compile
+[INFO] |     |  +- commons-lang:commons-lang:jar:2.6:compile
+[INFO] |     |  +- org.codehaus.jackson:jackson-core-lgpl:jar:1.4.0:compile
+[INFO] |     |  +- org.codehaus.jackson:jackson-mapper-lgpl:jar:1.4.0:compile
+[INFO] |     |  \- com.caucho:hessian:jar:3.1.5:compile
+[INFO] |     \- commons-logging:commons-logging:jar:1.1:compile
+[INFO] |        +- logkit:logkit:jar:1.0.1:compile
+[INFO] |        \- avalon-framework:avalon-framework:jar:4.1.3:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-amqp:jar:1.5.16.RELEASE:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter:jar:1.5.16.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot:jar:1.5.16.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-autoconfigure:jar:1.5.16.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-starter-logging:jar:1.5.16.RELEASE:compile
+[INFO] |  |  |  +- ch.qos.logback:logback-classic:jar:1.1.11:compile
+[INFO] |  |  |  |  \- ch.qos.logback:logback-core:jar:1.1.11:compile
+[INFO] |  |  |  +- org.slf4j:jul-to-slf4j:jar:1.7.25:compile
+[INFO] |  |  |  \- org.slf4j:log4j-over-slf4j:jar:1.7.25:compile
+[INFO] |  |  \- org.yaml:snakeyaml:jar:1.17:runtime
+[INFO] |  +- org.springframework:spring-messaging:jar:4.3.19.RELEASE:compile
+[INFO] |  |  \- org.springframework:spring-beans:jar:4.3.19.RELEASE:compile
+[INFO] |  \- org.springframework.amqp:spring-rabbit:jar:1.7.10.RELEASE:compile
+[INFO] |     +- org.springframework:spring-tx:jar:4.3.19.RELEASE:compile
+[INFO] |     +- org.springframework.amqp:spring-amqp:jar:1.7.10.RELEASE:compile
+[INFO] |     +- org.springframework.retry:spring-retry:jar:1.2.2.RELEASE:compile
+[INFO] |     +- com.rabbitmq:http-client:jar:1.1.1.RELEASE:compile
+[INFO] |     |  \- org.apache.httpcomponents:httpclient:jar:4.5.6:compile
+[INFO] |     |     +- org.apache.httpcomponents:httpcore:jar:4.4.10:compile
+[INFO] |     |     \- commons-codec:commons-codec:jar:1.10:compile
+[INFO] |     \- com.rabbitmq:amqp-client:jar:4.8.1:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-data-redis:jar:1.5.16.RELEASE:compile
+[INFO] |  +- org.springframework.data:spring-data-redis:jar:1.8.15.RELEASE:compile
+[INFO] |  |  +- org.springframework.data:spring-data-keyvalue:jar:1.2.15.RELEASE:compile
+[INFO] |  |  |  \- org.springframework.data:spring-data-commons:jar:1.13.15.RELEASE:compile
+[INFO] |  |  +- org.springframework:spring-oxm:jar:4.3.19.RELEASE:compile
+[INFO] |  |  +- org.springframework:spring-aop:jar:4.3.19.RELEASE:compile
+[INFO] |  |  +- org.slf4j:slf4j-api:jar:1.7.25:compile
+[INFO] |  |  \- org.slf4j:jcl-over-slf4j:jar:1.7.25:compile
+[INFO] |  \- redis.clients:jedis:jar:2.9.0:compile
+[INFO] |     \- org.apache.commons:commons-pool2:jar:2.4.3:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-mail:jar:1.5.16.RELEASE:compile
+[INFO] |  +- org.springframework:spring-context:jar:4.3.19.RELEASE:compile
+[INFO] |  |  \- org.springframework:spring-expression:jar:4.3.19.RELEASE:compile
+[INFO] |  +- org.springframework:spring-context-support:jar:4.3.19.RELEASE:compile
+[INFO] |  \- com.sun.mail:javax.mail:jar:1.5.6:compile
+[INFO] |     \- javax.activation:activation:jar:1.1:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.16.RELEASE:compile
+[INFO] |  +- org.thymeleaf:thymeleaf-spring4:jar:2.1.6.RELEASE:compile
+[INFO] |  |  \- org.thymeleaf:thymeleaf:jar:2.1.6.RELEASE:compile
+[INFO] |  |     +- ognl:ognl:jar:3.0.8:compile
+[INFO] |  |     +- org.javassist:javassist:jar:3.21.0-GA:compile
+[INFO] |  |     \- org.unbescape:unbescape:jar:1.1.0.RELEASE:compile
+[INFO] |  \- nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.4.0:compile
+[INFO] |     \- org.codehaus.groovy:groovy:jar:2.4.15:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-web:jar:1.5.16.RELEASE:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.16.RELEASE:compile
+[INFO] |  |  +- org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.34:compile
+[INFO] |  |  |  \- org.apache.tomcat:tomcat-annotations-api:jar:8.5.34:compile
+[INFO] |  |  +- org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.34:compile
+[INFO] |  |  \- org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.34:compile
+[INFO] |  +- org.hibernate:hibernate-validator:jar:5.3.6.Final:compile
+[INFO] |  |  +- javax.validation:validation-api:jar:1.1.0.Final:compile
+[INFO] |  |  +- org.jboss.logging:jboss-logging:jar:3.3.2.Final:compile
+[INFO] |  |  \- com.fasterxml:classmate:jar:1.3.4:compile
+[INFO] |  +- com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.2:compile
+[INFO] |  |  +- com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0:compile
+[INFO] |  |  \- com.fasterxml.jackson.core:jackson-core:jar:2.8.11:compile
+[INFO] |  +- org.springframework:spring-web:jar:4.3.19.RELEASE:compile
+[INFO] |  \- org.springframework:spring-webmvc:jar:4.3.19.RELEASE:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-test:jar:1.5.16.RELEASE:test
+[INFO] |  +- org.springframework.boot:spring-boot-test:jar:1.5.16.RELEASE:test
+[INFO] |  +- org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.16.RELEASE:test
+[INFO] |  +- com.jayway.jsonpath:json-path:jar:2.2.0:test
+[INFO] |  |  \- net.minidev:json-smart:jar:2.2.1:test
+[INFO] |  |     \- net.minidev:accessors-smart:jar:1.1:test
+[INFO] |  |        \- org.ow2.asm:asm:jar:5.0.3:test
+[INFO] |  +- junit:junit:jar:4.12:test
+[INFO] |  +- org.assertj:assertj-core:jar:2.6.0:test
+[INFO] |  +- org.mockito:mockito-core:jar:1.10.19:test
+[INFO] |  |  \- org.objenesis:objenesis:jar:2.1:test
+[INFO] |  +- org.hamcrest:hamcrest-core:jar:1.3:test
+[INFO] |  +- org.hamcrest:hamcrest-library:jar:1.3:test
+[INFO] |  +- org.skyscreamer:jsonassert:jar:1.4.0:test
+[INFO] |  |  \- com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test
+[INFO] |  +- org.springframework:spring-core:jar:4.3.19.RELEASE:compile
+[INFO] |  \- org.springframework:spring-test:jar:4.3.19.RELEASE:test
+[INFO] \- com.alibaba:fastjson:jar:1.2.17:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 24.597s
+[INFO] Finished at: Wed Sep 12 12:29:36 CST 2018
+[INFO] Final Memory: 21M/164M
+[INFO] ------------------------------------------------------------------------
